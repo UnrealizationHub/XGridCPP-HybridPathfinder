@@ -1,0 +1,12 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.HybridPathfinderPlugin.cpp.obj": [
+			"HybridPathfinderPlugin.init.gen.cpp.obj",
+			"XGridPathfinder.gen.cpp.obj",
+			"FNodeModule.cpp.obj",
+			"HybridPathfinderPlugin.cpp.obj",
+			"XGridPathfinder.cpp.obj"
+		]
+	}
+}

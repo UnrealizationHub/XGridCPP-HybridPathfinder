@@ -1,0 +1,29 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\ascot\\desktop\\xgrid from ue5 blank\\5.3.2\\xgrid\\plugins\\hybridpathfinderplugin\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\hybridpathfinderplugin\\module.hybridpathfinderplugin.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\ascot\\desktop\\xgrid from ue5 blank\\5.3.2\\xgrid\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\engine\\sharedpch.engine.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\ascot\\desktop\\xgrid from ue5 blank\\5.3.2\\xgrid\\plugins\\hybridpathfinderplugin\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\hybridpathfinderplugin\\definitions.hybridpathfinderplugin.h",
+            "c:\\users\\ascot\\desktop\\xgrid from ue5 blank\\5.3.2\\xgrid\\plugins\\hybridpathfinderplugin\\intermediate\\build\\win64\\unrealeditor\\inc\\hybridpathfinderplugin\\uht\\hybridpathfinderplugin.init.gen.cpp",
+            "c:\\users\\ascot\\desktop\\xgrid from ue5 blank\\5.3.2\\xgrid\\plugins\\hybridpathfinderplugin\\intermediate\\build\\win64\\unrealeditor\\inc\\hybridpathfinderplugin\\uht\\xgridpathfinder.gen.cpp",
+            "c:\\users\\ascot\\desktop\\xgrid from ue5 blank\\5.3.2\\xgrid\\plugins\\hybridpathfinderplugin\\source\\hybridpathfinderplugin\\public\\xgridpathfinder.h",
+            "c:\\users\\ascot\\desktop\\xgrid from ue5 blank\\5.3.2\\xgrid\\plugins\\hybridpathfinderplugin\\source\\hybridpathfinderplugin\\public\\fnodemodule.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\coreuobject\\public\\uobject\\noexporttypes.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\coreuobject\\public\\uobject\\propertyaccessutil.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\coreuobject\\public\\serialization\\testundeclaredscriptstructobjectreferences.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\core\\public\\math\\unitconversion.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\core\\public\\math\\unitconversion.inl",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\core\\public\\internationalization\\polyglottextdata.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\coreuobject\\public\\assetregistry\\arfilter.h",
+            "c:\\users\\ascot\\desktop\\xgrid from ue5 blank\\5.3.2\\xgrid\\plugins\\hybridpathfinderplugin\\intermediate\\build\\win64\\unrealeditor\\inc\\hybridpathfinderplugin\\uht\\xgridpathfinder.generated.h",
+            "c:\\users\\ascot\\desktop\\xgrid from ue5 blank\\5.3.2\\xgrid\\plugins\\hybridpathfinderplugin\\source\\hybridpathfinderplugin\\private\\fnodemodule.cpp",
+            "c:\\users\\ascot\\desktop\\xgrid from ue5 blank\\5.3.2\\xgrid\\plugins\\hybridpathfinderplugin\\source\\hybridpathfinderplugin\\private\\hybridpathfinderplugin.cpp",
+            "c:\\users\\ascot\\desktop\\xgrid from ue5 blank\\5.3.2\\xgrid\\plugins\\hybridpathfinderplugin\\source\\hybridpathfinderplugin\\public\\hybridpathfinderplugin.h",
+            "c:\\users\\ascot\\desktop\\xgrid from ue5 blank\\5.3.2\\xgrid\\plugins\\hybridpathfinderplugin\\source\\hybridpathfinderplugin\\private\\xgridpathfinder.cpp"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

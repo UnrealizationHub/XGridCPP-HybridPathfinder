@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-HybridPathfinderPlugin.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\ascot\Documents\XGrid Final\5.1.1\XGrid\Intermediate\Build\Win64\UnrealEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\ascot\Documents\XGrid Final\5.1.1\XGrid\Plugins\HybridPathfinderPlugin\Intermediate\Build\Win64\UnrealEditor\Development\HybridPathfinderPlugin\Module.HybridPathfinderPlugin.cpp.obj"
+"C:\Users\ascot\Documents\XGrid Final\5.1.1\XGrid\Plugins\HybridPathfinderPlugin\Intermediate\Build\Win64\UnrealEditor\Development\HybridPathfinderPlugin\Default.rc2.res"
+/OUT:"C:\Users\ascot\Documents\XGrid Final\5.1.1\XGrid\Plugins\HybridPathfinderPlugin\Intermediate\Build\Win64\UnrealEditor\Development\HybridPathfinderPlugin\UnrealEditor-HybridPathfinderPlugin.lib"
