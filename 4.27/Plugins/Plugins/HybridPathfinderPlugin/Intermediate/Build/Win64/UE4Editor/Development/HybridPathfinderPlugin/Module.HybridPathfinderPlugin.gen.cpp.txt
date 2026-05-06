@@ -1,0 +1,14 @@
+C:\Users\ascot\OneDrive\Desktop\Recompiled Plugin Versions\4.27\XGrid\Plugins\Plugins\HybridPathfinderPlugin\Intermediate\Build\Win64\UE4Editor\Development\HybridPathfinderPlugin\Definitions.HybridPathfinderPlugin.h
+C:/Users/ascot/OneDrive/Desktop/Recompiled Plugin Versions/4.27/XGrid/Plugins/Plugins/HybridPathfinderPlugin/Intermediate/Build/Win64/UE4Editor/Inc/HybridPathfinderPlugin/HybridPathfinderPlugin.init.gen.cpp
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+C:/Users/ascot/OneDrive/Desktop/Recompiled Plugin Versions/4.27/XGrid/Plugins/Plugins/HybridPathfinderPlugin/Intermediate/Build/Win64/UE4Editor/Inc/HybridPathfinderPlugin/XGridPathfinder.gen.cpp
+C:\Users\ascot\OneDrive\Desktop\Recompiled Plugin Versions\4.27\XGrid\Plugins\Plugins\HybridPathfinderPlugin\Source\HybridPathfinderPlugin/Public/XGridPathfinder.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/NoExportTypes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/PropertyAccessUtil.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Math/UnitConversion.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Math/UnitConversion.inl
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Internationalization/PolyglotTextData.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\AssetRegistry/ARFilter.h
+C:\Users\ascot\OneDrive\Desktop\Recompiled Plugin Versions\4.27\XGrid\Plugins\Plugins\HybridPathfinderPlugin\Source\HybridPathfinderPlugin\Public\FNodeModule.h
+C:\Users\ascot\OneDrive\Desktop\Recompiled Plugin Versions\4.27\XGrid\Plugins\Plugins\HybridPathfinderPlugin\Intermediate\Build\Win64\UE4Editor\Inc\HybridPathfinderPlugin\XGridPathfinder.generated.h
